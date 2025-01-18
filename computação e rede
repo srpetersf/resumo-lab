@@ -1,0 +1,15 @@
+Computação no Azure:
+  - Tipos de computação: VMS, conteineres, funções e AKS (Azure kubernetes service)
+  - VMS são emuladores de computadores fisicos, offerencendo controle total e personalização, uteis pra migrações.
+  - Conteineres são leves, escalaveis e ideias para microsserviçoes.
+
+Serviços de Rede:
+  - VNet: conecta recuros do azure entre si e com redes locais.
+  - Gateway de VPN e expressRoute: Facilitam conexões seguras e privadas.
+  - DNS do azure: Oferece gerenciamento seguro e personalizado de nomes de dominio.
+
+Serviços de aplicativos:
+  - Plataorma gerenciada para criar e escalar aplicativos e APIs em diversas linguagens como .NET, JavaScript, Python e PHP.
+
+Orquestações  e Escalabilidade: 
+  - Conjuntos de dimensionamento para VMs e soluções de balanceamento de carga para atender demandas de recursos variáveis. 
