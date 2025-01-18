@@ -6,5 +6,7 @@ Benefícios da nuvem:
 *Confiabilidade: Você consegue criar recursos implantados em qual região do mundo, também a nuvem da suporte;
 *Previsibilidade: Avançe com confiança, permite que os clientes crie coisas sem a preocupação que vai dar algum problema no desempenho ou vão ter um custo muito elevado;
 *Segurança: Propria nuvem tras todo um sistema com segurança para o cliente, oferece ferramentas, porem a Microsoft não se responsabiliza se algo acontecer.(Resposabilidade da microsoft é oferencer recursos para aplicar segurança, resposabilidade do cliente é aplicar elas);
-*Governaça:
-*Gerenciabilidade:
+*Governaça:  Basicamente se trata de segurança porem voltada a acesso, quem pode acessar o que e aonde.  
+
+
+Falando sobre SLA, consegui compreender que quantos mais 9 tiver no final, menor o tempo de inatividade, exemplo: 99,9999% 
