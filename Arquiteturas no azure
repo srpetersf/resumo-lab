@@ -1,0 +1,19 @@
+Componentes de arquitetura do Azure:
+  *Regiões, zonas de disponibilidade e datacenters.
+  *Grupos de recursos, assinaturas e grupos de gerenciamento.
+
+Regiões e zonas de disponibilidade:
+  *O Azure possui mais de 60 regiões em 140 paises, como foco em flexibilidade, escalbilidade e redução de latencia.
+  *Zonas disponibilidade fornecem resiliencia contr falahs de datacenters e são conectadaas por redes privadas de fibra optica. 
+
+Pares de regiões:
+  *Garantem a continuidade operacional e conformidade em casos de falhas regionais.
+  *Incluem suporte a necessidade especifica, como segurança de dados para governos.
+
+Recursos e grupos de recursos:
+  *Incluem elemntos como armazenamento, MV e redes, organizados em grupos para facilitar o gerenciamento.
+
+Assinaturas e grupos de gerenciamento:
+  *Permite controle de acesso, gerencialmento de custo e aplicaação de politicas unificadas:
+
+  
