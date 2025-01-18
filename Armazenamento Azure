@@ -1,0 +1,24 @@
+-Contas de armazenamento: Precisa ter um nome unico global; determina os serviços de armazenamento e as opções de redundancia. 
+  LRS - Armazenamento com redundancia local - Data center individual na regiao primaria - 11 noves
+  ZRS - Armazenamneto com redundancia De zona - tres zonas de disponibilidade de regiao primaria - 12 noves
+  GRS - Armazenamneto com redundacnia Geografica - datacenter unico no primario e regiao secundaria - 16 noves
+  GZRS - Armazenamneto com redundancia de zona geografica - tres zonas de disponibilidade na regiao primaria e um unico datacenter na regiao secundaria - 16 noves
+
+-LRS E ZRS As que mais cai na prova de AZ 900.
+
+  * Blob do azure - otimiza o armazenamento de quantidades massivas de dados nao estruturados, como texto e imagens.
+  * Disco do Azure: Forece discos para MVS, app de soft
+  * Fila do Azure: Armazenamento de mensagem.
+  * Arquivos do azure: Compartilhamento de arquivos.
+  * Tabelas do Azure: armazenamento de dados estruturados.
+
+- Camadas de acesso: é cobrado conforme espaço que consome e acesso aos arquivos, quanto mais frenquencia menor o valor da consulta. 
+
+  *Frequente - Acessado com frequencia
+  *Esporadico - armazenados por pelo menos 30 dias
+  *Frio - 90 dias
+  *Arquivo morto - 180 
+
+- Migração para o azure: Azure Data Box é para fazer a transferencia de arquivos até 80tb. (Existe a Snowmobile da AWS - 100petabyte)
+
+-Azcopy - Copiar Blob ou arquivos de ou par sua conta de armazenamento. 
