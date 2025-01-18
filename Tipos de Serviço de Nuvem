@@ -1,0 +1,23 @@
+Tipos de serviço de nuvem: IaaS, PaaS e SaaS.
+
+  *IaaS: Infraestrutura como serviço; 
+    cria uma infraestrutura de Ti que vai pagando conforme o uso
+      - Serviço de nuvem mais flexivel.
+      - Você configur e gerencia o hardware para seu aplicativo.
+
+  *PaaS: Plataforma como serviço;
+    Fornece um ambiente de criação, teste e implantação de aplicativos.
+      - Focado no desenvolvimento de aplicativos.
+      - O gerenciamento de plataforma é realizado pelo provedor de nuvem. 
+
+  *SaaS: Software como serviço;
+    Usuarios se conectam e usam aplicativos com base em nuvem.
+      -Modelo de preço de pagamento conforme o uso.
+      - Usuario paga pelo software que utiliza em seu modelo de assinatura.
+      
+------------------------------------------------------------------------------
+
+Modelo de responsabilidade compartilhada: Mostra qual a responsabilidade de cada parte. 
+
+
+    
