@@ -1,0 +1,21 @@
+Microsot entre ID - serviço de gerencimento de idendidade de acesso.
+
+Serviços de Diretório no Azure:
+Microsoft Entra ID e Domain Services.
+Sincronização de identidades e suporte para aplicativos legados.
+
+Métodos de Autenticação:
+SSO (Logon Único), MFA (Autenticação Multifator) e autenticação sem senha.
+
+Gerenciamento de Identidades Externas:
+Acesso de convidados e identidades externas B2B e B2C.
+
+Segurança Avançada:
+Acesso Condicional baseado em sinais como IP, dispositivo e detecção de riscos.
+Controle de acesso baseado em função (RBAC) para granularidade no gerenciamento.
+
+Confiança Zero e Defesa em Profundidade:
+Modelos de segurança com proteção em camadas, isolando ataques.
+
+Microsoft Defender para Nuvem:
+Ferramenta para monitoramento, recomendações de segurança, detecção de malware e ataques.
