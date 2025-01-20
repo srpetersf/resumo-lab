@@ -1,0 +1,21 @@
+Gerenciamento de Custos no Azure:
+
+Fatores que afetam os custos:
+  *Tipo de serviço, região, camadas de preços e opções de suporte.
+
+Ferramentas disponíveis:
+  *Calculadora de Preços: Estima custos configuráveis por produto e serviço.
+  *Calculadora de Custo Total de Propriedade (TCO): Compara custos entre infraestrutura local e Azure.
+
+Gerenciamento de Custos do Azure:
+  *Definição de orçamentos de gastos.
+  *Alertas para monitorar limites.
+  *Recomendação de otimização de custos.
+
+Azure Marketplace:
+  *Permite acessar aplicativos e serviços certificados para execução no Azure.  
+  *Inclui ferramentas para desenvolvedores, bancos de dados, imagens de máquinas virtuais e plataformas de contêineres.
+
+Uso de Marcas (Tags):
+  *Organizam recursos do Azure com pares nome-valor.
+  *Auxiliam na organização lógica e no controle de custos.
