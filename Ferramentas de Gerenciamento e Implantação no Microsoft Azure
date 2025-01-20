@@ -1,0 +1,18 @@
+Portal do Azure:
+  Interface gráfica para gerenciar, configurar e monitorar recursos no Azure.
+
+Azure Cloud Shell:
+  Ambiente de linha de comando acessível via navegador.
+  Suporta Azure CLI e Azure PowerShell para gerenciar recursos de forma automatizada.
+
+Azure Resource Manager (ARM):
+  Camada de gerenciamento que permite criar, atualizar e excluir recursos na assinatura do Azure.
+
+Suporte a Infraestrutura como Código (IaC):
+  Modelos ARM: Arquivos JSON que definem infraestrutura de maneira declarativa, garantindo consistência e repetibilidade.
+
+Azure Arc:
+Gerencia recursos locais e multinuvem como se estivessem no Azure.
+
+Bicep:
+  Linguagem simplificada para criar templates ARM, reduzindo a complexidade de arquivos JSON
