@@ -1,0 +1,18 @@
+Azure Policy:
+  Enforce padrões organizacionais e avalia a conformidade em larga escala.
+  Identifica recursos fora da política e aplica padrões de conformidade (ex.: armazenamento, rede, computação).
+
+Bloqueios de Recursos:
+  Protege recursos contra exclusões ou alterações acidentais.
+  Aplicável a níveis de assinatura, grupos de recursos ou recursos individuais.
+
+Portal de Confiança do Serviço:
+  Centraliza informações sobre conformidade, segurança e regulamentos aplicáveis ao Azure.
+
+Microsoft Purview:
+  Solução para governança e conformidade de dados.
+
+Oferece:
+  Descoberta automatizada de dados.
+  Classificação de dados confidenciais.
+  Visualização da linhagem de dados (origem e movimentação).
